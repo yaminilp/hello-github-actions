@@ -4,4 +4,5 @@ This course will walk you through writing your first action and using it with a 
 
 Changing something
 
+Another change
 **Ready to get started? Navigate to the first issue.**
